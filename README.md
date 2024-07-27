@@ -1,7 +1,5 @@
 # Fingerprint_Vehicle_Starter
 
-# Fingerprint_Vehicle_Starter
-
 **Overview**
 
 This project demonstrates a fingerprint-based vehicle starter system using an Arduino Uno, a fingerprint sensor, and a buzzer. The system provides enhanced security by requiring a fingerprint match before allowing the vehicle to start.
